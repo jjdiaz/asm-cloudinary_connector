@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Asm\\Bundle\\CloudinaryConnectorBundle\\": "src/"
+            "Asm\\Bundle\\CloudinaryConnectorBundle\\":""
         }
     },
     "branch-alias": {
